@@ -131,7 +131,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 <details>
  <summary><b>- Configure</b> <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">[SLA]</a></summary>  <br />
- <b>We are going to create some SLA plans. Service Level Agreements (SLA) plans provide a guideline for length of time in which the help desk Administrator expects tickets to be closed.</b>
+ <b>We are going to create some SLA plans. Service Level Agreements (SLA) plans provide a guideline for length of time in which the Help Desk Administrator expects tickets to be closed.</b>
 <br/><br/>
  <ol><li>Admin Panel -> Manage -> SLA -> Add New SLA Plan</li>
     <li>Name and Schedule, then click 'Add Plan'</li>
